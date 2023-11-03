@@ -1,4 +1,4 @@
-###### Для обхлода блокировки в РФ
+###### Для обхода блокировки в РФ
 terraform {
   required_version = "1.4.7"
   required_providers {
